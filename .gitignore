@@ -1,8 +1,6 @@
 /.idea
-/target
-/jvm.iml
-/src/main/resources/java_pid1756.hprof.analysis
-/src/main/resources/java_pid1756.hprof
-/src/main/resources/jstack01.dump
-/src/main/resources/jstack02.dump
-/src/main/resources/jstack03.dump
+*.dump
+*.hprof
+*.hprof.analysis
+target
+*.iml
